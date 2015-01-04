@@ -1,4 +1,4 @@
-! function (window, document, undefined) {
+!function (window, document, undefined) {
 
     var i = 0,
         text = document.getElementById("text"),
