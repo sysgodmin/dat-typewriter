@@ -9,7 +9,7 @@
               text.innerHTML = speak[i];
               i++;
               loop();
-          },4)
+          },400)
             
         };
 
